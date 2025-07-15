@@ -1,2 +1,3 @@
-# airbnb-for-luxury-nice-villas-mdxtlx
-Deployment for project airbnb-for-luxury-nice-villas-mdxtlx
+app generated from cofounder/boilerplate
+
+instructions here on how to start api and frontend , whether in parallel or separately

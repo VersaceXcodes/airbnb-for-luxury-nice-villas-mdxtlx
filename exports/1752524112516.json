@@ -1,0 +1,15 @@
+{
+  "timestamp": 1752524112516,
+  "operation": {
+    "id": "settings:config:package"
+  },
+  "projectId": "airbnb-for-luxury-nice-villas",
+  "files": [
+    {
+      "path": "../../apps/airbnb-for-luxury-nice-villas/vitereact/package.json",
+      "type": "text",
+      "size": 3038,
+      "dependencies": true
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "timestamp": 1752522309343,
+  "operation": {
+    "id": "backend:tests:main"
+  },
+  "projectId": "airbnb-for-luxury-nice-villas",
+  "files": [
+    {
+      "path": "../../apps/airbnb-for-luxury-nice-villas/backend/server.test.js",
+      "type": "text",
+      "size": 179,
+      "dependencies": false
+    },
+    {
+      "path": "../../apps/airbnb-for-luxury-nice-villas/backend/jest.config.js",
+      "type": "text",
+      "size": 508,
+      "dependencies": false
+    }
+  ]
+}

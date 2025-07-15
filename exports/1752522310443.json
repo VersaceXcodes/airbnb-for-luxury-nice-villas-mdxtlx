@@ -1,0 +1,15 @@
+{
+  "timestamp": 1752522310443,
+  "operation": {
+    "id": "settings:config:package"
+  },
+  "projectId": "airbnb-for-luxury-nice-villas",
+  "files": [
+    {
+      "path": "../../apps/airbnb-for-luxury-nice-villas/backend/package.json",
+      "type": "text",
+      "size": 1502,
+      "dependencies": true
+    }
+  ]
+}

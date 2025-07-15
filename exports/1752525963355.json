@@ -1,0 +1,19 @@
+{
+  "timestamp": 1752525963355,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "UV_GuestGuidebook",
+      "version": "1752524439492"
+    }
+  },
+  "projectId": "airbnb-for-luxury-nice-villas",
+  "files": [
+    {
+      "path": "../../apps/airbnb-for-luxury-nice-villas/vitereact/src/components/views/UV_GuestGuidebook.tsx",
+      "type": "text",
+      "size": 5444,
+      "dependencies": false
+    }
+  ]
+}

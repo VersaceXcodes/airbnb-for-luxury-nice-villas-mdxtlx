@@ -1,0 +1,15 @@
+{
+  "timestamp": 1752520620150,
+  "operation": {
+    "id": "db:schemas:zod"
+  },
+  "projectId": "airbnb-for-luxury-nice-villas",
+  "files": [
+    {
+      "path": "../../apps/airbnb-for-luxury-nice-villas/backend/schema.ts",
+      "type": "text",
+      "size": 34273,
+      "dependencies": false
+    }
+  ]
+}

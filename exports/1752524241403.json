@@ -1,0 +1,19 @@
+{
+  "timestamp": 1752524241403,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "UV_GuestTripsDashboard",
+      "version": "1752523431321"
+    }
+  },
+  "projectId": "airbnb-for-luxury-nice-villas",
+  "files": [
+    {
+      "path": "../../apps/airbnb-for-luxury-nice-villas/vitereact/src/components/views/UV_GuestTripsDashboard.tsx",
+      "type": "text",
+      "size": 9436,
+      "dependencies": false
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "timestamp": 1752524111917,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "UV_Confirmation",
+      "version": "latest"
+    }
+  },
+  "projectId": "airbnb-for-luxury-nice-villas",
+  "files": [
+    {
+      "path": "../../apps/airbnb-for-luxury-nice-villas/vitereact/src/components/views/UV_Confirmation.tsx",
+      "type": "text",
+      "size": 6351,
+      "dependencies": false
+    }
+  ]
+}

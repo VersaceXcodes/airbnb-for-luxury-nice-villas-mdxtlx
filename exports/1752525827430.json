@@ -1,0 +1,19 @@
+{
+  "timestamp": 1752525827430,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "GV_Footer",
+      "version": "latest"
+    }
+  },
+  "projectId": "airbnb-for-luxury-nice-villas",
+  "files": [
+    {
+      "path": "../../apps/airbnb-for-luxury-nice-villas/vitereact/src/components/views/GV_Footer.tsx",
+      "type": "text",
+      "size": 4889,
+      "dependencies": false
+    }
+  ]
+}

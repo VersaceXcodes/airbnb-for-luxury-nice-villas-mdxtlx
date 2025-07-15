@@ -1,0 +1,19 @@
+{
+  "timestamp": 1752525388125,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "UV_HostPayments",
+      "version": "1752523431383"
+    }
+  },
+  "projectId": "airbnb-for-luxury-nice-villas",
+  "files": [
+    {
+      "path": "../../apps/airbnb-for-luxury-nice-villas/vitereact/src/components/views/UV_HostPayments.tsx",
+      "type": "text",
+      "size": 10046,
+      "dependencies": false
+    }
+  ]
+}

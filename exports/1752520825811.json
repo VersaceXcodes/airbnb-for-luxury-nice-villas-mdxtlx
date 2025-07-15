@@ -1,0 +1,15 @@
+{
+  "timestamp": 1752520825811,
+  "operation": {
+    "id": "backend:specifications:asyncapi"
+  },
+  "projectId": "airbnb-for-luxury-nice-villas",
+  "files": [
+    {
+      "path": "../../apps/airbnb-for-luxury-nice-villas/backend/asyncapi.yaml",
+      "type": "text",
+      "size": 3,
+      "dependencies": false
+    }
+  ]
+}

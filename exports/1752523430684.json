@@ -1,0 +1,19 @@
+{
+  "timestamp": 1752523430684,
+  "operation": {
+    "id": "webapp:react:root",
+    "refs": {
+      "id": "app",
+      "version": "1752523324455"
+    }
+  },
+  "projectId": "airbnb-for-luxury-nice-villas",
+  "files": [
+    {
+      "path": "../../apps/airbnb-for-luxury-nice-villas/vitereact/src/App.tsx",
+      "type": "text",
+      "size": 8204,
+      "dependencies": false
+    }
+  ]
+}

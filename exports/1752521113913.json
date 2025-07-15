@@ -1,0 +1,15 @@
+{
+  "timestamp": 1752521113913,
+  "operation": {
+    "id": "backend:specifications:openapi"
+  },
+  "projectId": "airbnb-for-luxury-nice-villas",
+  "files": [
+    {
+      "path": "../../apps/airbnb-for-luxury-nice-villas/backend/openapi.yaml",
+      "type": "text",
+      "size": 3,
+      "dependencies": false
+    }
+  ]
+}

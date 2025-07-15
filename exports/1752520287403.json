@@ -1,0 +1,15 @@
+{
+  "timestamp": 1752520287403,
+  "operation": {
+    "id": "db:postgres"
+  },
+  "projectId": "airbnb-for-luxury-nice-villas",
+  "files": [
+    {
+      "path": "../../apps/airbnb-for-luxury-nice-villas/backend/db.sql",
+      "type": "text",
+      "size": 21148,
+      "dependencies": false
+    }
+  ]
+}
